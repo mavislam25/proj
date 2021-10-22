@@ -1,0 +1,32 @@
+.sourcepaper{
+    position: absolute;
+    width: 83%;
+    height: 844px;
+    left: 32px;
+    top: 16px;
+}
+.source{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    height: 230.92718505859375px;
+    width: 100%;
+    top: 45px;
+    border-radius: 0px;
+    position: absolute;
+}
+.title{
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+    width: 972px;
+    height: 24px;
+}
+.CommoditiesSources{
+    height: 24px;
+    left: 20px;
+    top: 0px;
+    border-radius: 0px;
+}

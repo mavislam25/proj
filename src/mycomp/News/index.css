@@ -1,0 +1,16 @@
+.newsdiv{
+    width: 100%;
+
+}
+.newscontainer{
+    position: static;
+    min-width: 775px;
+    width: 100%;
+    height: 245px;
+    left: 0px;
+    top: 597px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 16px 0px;
+    }

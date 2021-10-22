@@ -1,0 +1,13 @@
+.drop-icon{
+    color: #D3E7F4 !important;
+    height: 16px !important;
+    width: 18px !important;
+    left: 35px;
+    position: relative
+}
+.drop{
+    position: absolute;
+    height: 16px;
+    left: 60px;
+    color: #D3E7F4;
+}

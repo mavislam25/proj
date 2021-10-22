@@ -1,0 +1,41 @@
+.history{
+    height: 795px;
+    width: 75%;
+    left: 231px;
+    top: 17px;
+    border-radius: 0px;
+    position: absolute;
+}
+.record{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    width: 100%;
+    height: 231.44px;
+    top: 45px;
+}
+.recent{
+    position: static;
+    width: 100%;
+    height: 24px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+.recentlyvisited{
+    height: 24px;
+    width: 187px;
+    left: 20px;
+    top: 0px;
+    border-radius: 0px;
+    position: absolute;    
+}
+.visitrecord{
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+}

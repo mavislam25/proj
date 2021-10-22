@@ -1,0 +1,112 @@
+.menubg{
+    position: absolute;
+    position: fixed;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    bottom: 0px;
+    background: #06507F;
+    box-shadow: 2px 1px 8px rgba(68, 68, 68, 0.35);
+    height: 940px;
+    width: 210px;   
+    z-index: 1;
+}
+.header{
+    position: absolute;
+    width: 210px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    background-color: white;
+}
+.LidlIcon{
+    position: absolute;
+    left: 21.43%;
+    right: 66.67%;
+    top: 22.22%;
+    bottom: 22.22%;
+}
+.LUP{
+    position: absolute;
+    left: 37.62%;
+    right: 3.33%;
+    top: 24.44%;
+    bottom: 24.44%;
+    color: #06507F;
+}
+.account{
+    position: absolute;
+    width: 210px;
+    height: 58px;
+    left: 0px;
+    top: 45px;
+    display: flex;
+    align-items: center;
+}
+#UserIcon{
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 13px;
+    top: calc(50% - 28px/2);
+}
+.username{
+    position: absolute;
+    width: 122px;
+    height: 26px;
+    left: 51px;
+    top: calc(50% - 26px/2 + 1px);
+    color: #FFFFFF;
+    padding: 5px;
+}
+.caret{
+    position: absolute !important;
+    right: 15px;
+}
+.Itemexpend{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    width: 210px;
+    height: 756px;
+    left: 0px;
+    top: 103px;
+}
+.menuitem{
+    position: static;
+    width: 210px;
+    height: 44px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    align-items: center;
+}
+.home-icon{
+    color: #D3E7F4 !important;
+    height: 16px !important;
+    width: 18px !important;
+    left: 15px;
+    position: relative;
+
+}
+.home{
+    position: absolute;
+    height: 16px;
+    left: 40px;
+    color: #D3E7F4;
+}
+.tracker-icon{
+    color: #D3E7F4 !important;
+    height: 16px !important;
+    width: 18px !important;
+    left: 22px;
+    position: relative;
+}
+.tracker{
+    position: absolute;
+    height: 16px;
+    left: 50px;
+    color: #D3E7F4;
+}

@@ -1,0 +1,9 @@
+#cell{
+    height: 32px !important;
+}
+.pricetable{
+    display: flex;
+}
+.chosencountry{
+    width:185px
+}

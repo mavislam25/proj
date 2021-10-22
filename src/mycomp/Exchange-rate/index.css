@@ -1,0 +1,69 @@
+.currency{
+    height: 350px;
+    width: 181px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    padding: 9px;
+}
+.content{
+    height: 40px;
+    width: 162px;
+    left: 9px;
+    top: 9px;
+    border-radius: 8px;
+    justify: space-between;
+    justify-content: center;
+    display: flex;
+}
+.currencytitle{
+    height: 24px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 4px 0px;
+}
+.rate{
+    height: 80px;
+    width: 162px;
+    left: 9px;
+    top: 9px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.currencyname{
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 4px 0px;
+    width: 58px;
+    height: 16px;
+}
+.currencyvalue{
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 4px 0px;
+}
+.currencypercentage{
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 4px 0px;
+}
+.addcurrency{
+    height: 80px;
+    width: 162px;
+    left: 9px;
+    top: 9px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}

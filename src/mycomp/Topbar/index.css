@@ -1,0 +1,13 @@
+#navigation{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    position: absolute;
+    width: 425px;
+    height: 24px;
+    left: 242px;
+}
+.pagenavigation{
+    border-bottom: 1px solid #C4C4C4;
+}

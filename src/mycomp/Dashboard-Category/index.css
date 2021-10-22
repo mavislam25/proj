@@ -1,0 +1,79 @@
+.fisrtrow{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 15px 0px;
+    width: 100%;
+    height: 352px;
+    left: 0px;
+    top: 0px;
+}
+.dash1{
+    position: static;
+    width: 380px;
+    height: 352px;
+    right: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    justify-content: center;
+    display: flex;
+    margin: 10px;
+}
+.dashcontent{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    position: relative;
+    width: 357.3px;
+    height: 333px;
+    top: 10px;
+    justify-content: center;
+}
+.dashtitle{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px;
+    position: static;
+    width: 349px;
+    height: 28px;
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+.icon{
+    color: #0076BF;
+    width: 17.5px !important;
+}
+.dashgraph{
+    position: static;
+    width: 362px;
+    height: 217px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+.dashtable{
+    position: static;
+    width: 358.16px;
+    height: 88px;
+    left: 0px;
+    top: 245px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 0px 0px;
+    overflow-y: scroll !important;
+}

@@ -1,0 +1,96 @@
+.current-price{
+    background-color: #FFFCE3 !important;
+    height: 142px;
+    width: 181px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.data{
+    position: absolute;
+    width: 164px;
+    height: 116px;
+    left: 9px;
+    top: 17px;
+}
+.Price{
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 10px 0px;
+    align-items: center;
+    text-align: center;
+    color: #A4A4A4;
+}
+.Pricevalue{
+    order: 1;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.high-low{
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 10px 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 0px;
+}
+.lowest{
+    color: #A4A4A4;
+    display: flex;
+    height: 12px;
+    width: 85px;
+    left: 0px;
+    top: 0px;
+    border-radius: nullpx;
+}
+.lowestvalue{
+    color: #444444;
+    height: 12px;
+    width: 53.71784973144531px;
+    left: 35.882080078125px;
+    top: 0px;
+    border-radius: nullpx;
+}
+.highest{
+    color: #A4A4A4;
+    display: flex;
+    height: 12px;
+    width: 54.399993896484375px;
+    left: 108.60009765625px;
+    top: 0px;
+    border-radius: nullpx;
+}
+.highestvalue{
+    color: #444444;
+    height: 12px;
+    width: 21px;
+}
+.datediv{
+    height: 12px;
+    width: 163px;
+    left: 0.5px;
+    top: 104.5px;
+    border-radius: 0px;
+    justify: space-between;
+    bottom: 0px;
+    position: absolute;
+    align-items: center;
+}
+.date{
+    display: flex;
+    position: absolute;
+    left: 22.52%;
+    right: 22.52%;
+    top: 0%;
+    bottom: 0%;
+    color: #A4A4A4;
+}
+.datevalue{
+    color: #444444;
+}

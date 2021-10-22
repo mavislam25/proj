@@ -1,0 +1,83 @@
+.datasource{
+    height: 160px;
+    width: 181px;
+    border-radius: 0px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 17px 0px;
+    padding: 9px;
+}
+.datasourcecontent{
+    height: 119px;
+    width: 164px;
+    left: 9px;
+    top: 11px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.datasourcetitle{
+    height: 26.5px;
+    width: 158.84445190429688px;
+    left: 2.577880859375px;
+    top: -1.75px;
+    border-radius: nullpx;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 6px 0px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #A4A4A4;
+}
+.commodity1{
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 6px 0px;
+    display: flex;
+    height: 24px;
+    width: 150px;
+    left: 0px;
+    top: 0px;
+    border-radius: nullpx;
+    align-items: center;
+    justify-content: space-between;
+}
+.update1{
+    width: 163px;
+    height: 12px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 6px 0px;
+    display: flex;
+    justify-content: center;
+}
+.Date{
+    display:flex;
+    color: #A4A4A4;
+}
+.Datevalue{
+    color: #444444;
+}
+.commodity2{
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    margin: 6px 0px;
+    display: flex;
+    align-items:center;
+    width: 150px;
+    justify-content: space-between;
+}
+.update2{
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+    margin: 0px 5px;
+}

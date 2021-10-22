@@ -1,0 +1,849 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Buttons/Atoms/CTAButton Outlined 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+  disabled={false}
+  onBlur={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Buttons/Atoms/CTAButton Outlined Disabled 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-outlinedSizeSmall MuiButton-sizeSmall Mui-disabled Mui-disabled"
+  disabled={true}
+  onBlur={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={-1}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Buttons/Atoms/CTAButton Outlined Secondary 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+  disabled={false}
+  onBlur={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Buttons/Atoms/CTAButton Solid 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall"
+  disabled={false}
+  onBlur={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Buttons/Atoms/CTAButton Solid Disabled 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall Mui-disabled Mui-disabled"
+  disabled={true}
+  onBlur={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={-1}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Buttons/Atoms/CTAButton Solid Secondary 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-containedSizeSmall MuiButton-sizeSmall"
+  disabled={false}
+  onBlur={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Icons/IconButton Disabled 1`] = `
+<button
+  className="MuiButtonBase-root MuiIconButton-root makeStyles-disabled-1 MuiIconButton-colorPrimary Mui-disabled Mui-disabled"
+  disabled={true}
+  onBlur={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={-1}
+  type="button"
+>
+  <span
+    className="MuiIconButton-label"
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root"
+      focusable="false"
+      viewBox="0 0 16 16"
+    >
+      add-element.svg
+    </svg>
+  </span>
+</button>
+`;
+
+exports[`Storyshots Icons/IconButton Primary 1`] = `
+<button
+  className="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary"
+  disabled={false}
+  onBlur={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiIconButton-label"
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root"
+      focusable="false"
+      viewBox="0 0 16 16"
+    >
+      add-element.svg
+    </svg>
+  </span>
+</button>
+`;
+
+exports[`Storyshots Icons/IconButton Secondary 1`] = `
+<button
+  className="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+  disabled={false}
+  onBlur={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiIconButton-label"
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root"
+      focusable="false"
+      viewBox="0 0 16 16"
+    >
+      add-element.svg
+    </svg>
+  </span>
+</button>
+`;
+
+exports[`Storyshots Logos/AbfLogos Abf Logos 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        3-year-warranty.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        ThreeYearWarrantyLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        3m.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        ThreeMLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        100pct-platinum-silicon.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        OneHundredPercentPlatinumSiliconLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        100pct-silicon.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        OneHundredPercentSiliconLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        battery.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        BatteryLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        bulb-energy-saving.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        BulbEnergySavingLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        bulb-led.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        BulbLedLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        ce.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        CeLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        green-dot.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        GreenDotLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        instruction.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        InstructionLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        insulation-class-2.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        InsulationClass2Logo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        ip44-waterproof.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Ip44WaterproofLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        ktv-w270.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        KtwW270Logo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        lga-noise-class.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        LgaNoiseClassLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        mobius.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        MobiusLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        not-dimmerable.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        NotDimmableLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        pap-20-recycle.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Pap20RecyclableLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        sgs-gs.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        SgsGsLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        smoc.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        SmocLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        triman.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        TrimanLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        tud-suv-octogon.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        YudSvgOctagonLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        tud-suv-production-safety.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        TudSuvProductionSafetyLogo
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-4 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 30 30"
+      >
+        waste.svg
+      </svg>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        WasteLogo
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Logos/AbfLogos Single Logo 1`] = `
+<svg
+  aria-hidden={true}
+  className="MuiSvgIcon-root"
+  focusable="false"
+  viewBox="0 0 30 30"
+>
+  3-year-warranty.svg
+</svg>
+`;

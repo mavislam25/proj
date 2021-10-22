@@ -1,0 +1,116 @@
+.current-price-dash{
+    background-color: #FFFCE3 !important;
+    height: 610px;
+    width: 181px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.data-dash{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    position: absolute;
+    width: 164px;
+    height: 369px;
+    left: 9px;
+    top: 17px;
+}
+.Price-dash{
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 10px 0px;
+    align-items: center;
+    text-align: center;
+    color: #A4A4A4;
+    height: 23px;
+    width: 164px;
+}
+.data1-dash{
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    position: static;
+    width: 164px;
+    height: auto;
+    left: 0px;
+    top: 40px;
+}
+.Country{
+    color: #06507F;
+    order: 0;
+    display: flex;
+    justify-self: start;
+    width: 100%;
+}
+.Pricevalue-dash{
+    letter-spacing: 0px;
+    order: 1;
+    text-align: center;
+}
+.high-low-dash{
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 10px 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 0px;
+}
+.lowest-dash{
+    color: #A4A4A4;
+    display: flex;
+    height: 12px;
+    width: 85px;
+    left: 0px;
+    top: 0px;
+    border-radius: nullpx;
+}
+.lowestvalue-dash{
+    color: #444444;
+    height: 12px;
+    width: 53.71784973144531px;
+    left: 35.882080078125px;
+    top: 0px;
+    border-radius: nullpx;
+}
+.highest-dash{
+    color: #A4A4A4;
+    display: flex;
+    height: 12px;
+    width: 54.399993896484375px;
+    left: 108.60009765625px;
+    top: 0px;
+    border-radius: nullpx;
+}
+.highestvalue-dash{
+    color: #444444;
+    height: 12px;
+    width: 21px;
+}
+.datediv-dash{
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+}
+.date-dash{
+    display: flex;
+    left: 22.52%;
+    right: 22.52%;
+    top: 0%;
+    bottom: 0%;
+    color: #A4A4A4;
+}
+.datevalue-dash{
+    color: #444444;
+}

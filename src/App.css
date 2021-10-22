@@ -1,38 +1,89 @@
-.App {
-  text-align: center;
+.maincontentdiv{
+    position: fixed;
+    width: 100%;
+    height: 813px;
+    left: 210px;
+    top: 110px;
+    z-index: -1;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.maincontent{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    width: 100%;
+    height: 813px;
+    left: 0px;
+    top: 16px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.left-hand-content{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    width: 100%;
+    height: 813px;
+    left: 231px;
+    top: 0px;
+    overflow-y: scroll;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    overflow: hidden
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.chart-news{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    position: static;
+    min-width: 775px;
+    width: 60%;
+    height: 813px;
+    left: 0px;
+    top: 0px;
+    overflow-y: scroll !important;
 }
-
-.App-link {
-  color: #61dafb;
+.right-hand-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    position: absolute;
+    width: 181px;
+    height: 813px;
+    right: 470px;
+    top: 0px;
+    overflow-y: scroll;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.mainnavdiv{
+    position: absolute;
+    width: 100%;
+    height: 879px;
+    left: 210px;
+    top: 61px;
 }
+.dash{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding: 0px;
+    position: static;
+    min-width: 775px;
+    width: 60%;
+    height: 813px;
+    left: 0px;
+    top: 0px;
+    overflow-y: scroll !important;
+}
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+} */

@@ -1,0 +1,27 @@
+.country{
+    height: 829px;
+    width: 220px;
+    left: 241px;
+    top: 0px;
+    border-radius: 0px;
+    background: #FFFFFF;
+    box-shadow: 2px 1px 8px rgba(68, 68, 68, 0.35);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 7px 0px 0px;
+    z-index: 1 ;
+}
+.category{
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+.category-title{
+    display: flex;
+    align-items: center;
+    height: 48px;
+    width: 212px;
+    padding: 10px;
+}

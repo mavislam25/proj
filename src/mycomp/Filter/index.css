@@ -1,0 +1,72 @@
+#filter{
+    position: absolute;
+    width: 214px !important;
+    height: 813px !important;
+    left: 0px;
+    top: 0px;
+}
+.filtertitle{
+    position: absolute;
+    width: 86px;
+    height: 20px;
+    left: 20px;
+    top: 18px;
+    display: flex;
+    align-items: center;
+    color: #444444;
+}
+.reset{
+    position: absolute;
+    width: 68px;
+    height: 20px;
+    right: 13px;
+    top: 18px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #0076BF;
+}
+.setting{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    width: 176px;
+    height: 760px;
+    left: 19px;
+    top: 47px;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    position: static;
+    width: 176px;
+    height: 428px;
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 17px 0px;
+}
+.MuiAutocomplete-inputRoot{
+    width: 176px !important;
+}
+.apply{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    width: 176px;
+    height: 36px;
+    bottom: 0px ;
+}
+.inputfield{
+    padding-bottom: 17px;
+}

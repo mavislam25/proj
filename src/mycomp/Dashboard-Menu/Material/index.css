@@ -1,0 +1,25 @@
+.material{
+    height: 181px;
+    width: 181px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:20px;
+}
+.contentdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    height: 127.33668518066406px;
+    width: 145.5276336669922px;
+    border-radius: 0px;
+    justify: space-between;  
+}
+.material-icon{
+    height: 55px !important;
+    width: 55px !important;
+    color: #0076BF !important;
+
+}
